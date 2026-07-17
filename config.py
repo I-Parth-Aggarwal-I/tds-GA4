@@ -1,4 +1,4 @@
-EMAIL = "your_email@ds.study.iitm.ac.in"
+EMAIL = "24f3003200@ds.study.iitm.ac.in"
 AIPIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI0ZjMwMDMyMDBAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc4NDMyMzE3MywiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc4NDkyNzk3M30.8xET7vddgaBLOgVAJBhoiSbghTPUhFK7INBUxYLNY0k"
 AIPIPE_BASE = "https://aipipe.org/openai/v1"
 TEXT_MODEL = "gpt-4o"
